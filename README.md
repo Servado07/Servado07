@@ -1,8 +1,9 @@
 # 👋 ¡Hola! Soy Sergio Valiente
 <small>
-Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con un enfoque práctico en el **desarrollo web Front-end** y la maquetación avanzada. Mi interés se centra en la aplicación práctica de la seguridad informática. 
+Estudiante de Administración de Sistemas Informáticos en Red (ASIR), con un enfoque práctico en el **desarrollo web Front-end** y la maquetación avanzada. Mi interés se centra en la aplicación práctica de la seguridad informática. 
 Como estudiante de ASIR, me enfoco en ir más allá de la teoría para comprender la seguridad desde sus cimientos, abarcando tanto la seguridad defensiva (diseño e implementación de sistemas de protección y defensa perimetral) como la seguridad ofensiva (hacking ético). Mi metodología de aprendizaje se basa en el desafío constante, utilizando plataformas para exponer los sistemas a situaciones reales, garantizando así un conocimiento técnico sólido.
 </small>
+
 ---
 
 ### 🧠 Sobre mí
