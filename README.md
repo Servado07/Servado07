@@ -1,15 +1,16 @@
 # 👋 ¡Hola! Soy Sergio Valiente
 
 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con un enfoque práctico en el **desarrollo web Front-end** y la maquetación avanzada. Me entusiasma traducir diseños complejos a código limpio y funcional, entendiendo el ciclo de vida completo de un proyecto, desde el control de versiones hasta el despliegue.
-
+Mi interés se centra en la aplicación práctica de la seguridad informática. Como estudiante de ASIR, me enfoco en ir más allá de la teoría para comprender la seguridad desde sus cimientos, abarcando tanto la seguridad defensiva (diseño e implementación de sistemas de protección y defensa perimetral) como la seguridad ofensiva (hacking ético). Mi metodología de aprendizaje se basa en el desafío constante, utilizando plataformas para exponer los sistemas a situaciones reales, garantizando así un conocimiento técnico sólido.
 ---
 
 ### 🧠 Sobre mí
 
-* 🎓 Formándome en ASIR, con interés en aplicar la teoría de sistemas a entornos de desarrollo y producción.
+* 🎓 **Formándome en ASIR**, con interés en aplicar la teoría de sistemas a entornos de desarrollo y producción.
+* 🛡️ **Especializándome en Ciberseguridad** a través de un máster, buscando construir una base técnica sólida en protección y análisis de sistemas.
 * 💻 **Enfoque principal:** Maquetación limpia, semántica HTML y creación de interfaces de usuario funcionales con CSS3.
 * 🎨 Implemento activamente efectos **CSS dinámicos** (como transiciones, zoom y sombras) para mejorar la interacción en el usuario.
-* 📚 Documento mi progreso y comparto los proyectos que he completado, como el [Catálogo del Museo de Curiosidades] y el [Perfil Dellafuente].
+* 📚 Documento mi progreso y comparto los proyectos que he completado, como el [Portfolio Personal] y el [Perfil Dellafuente].
 * ⚙️ Dominio de **Git & GitHub** para el control de versiones y el trabajo colaborativo.
 
 ---
@@ -25,4 +26,4 @@ Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con u
 
 ### 🎯 Objetivo
 
-Seguir creciendo como profesional Front-end, construyendo una base técnica sólida y demostrable. Este perfil es parte de mi camino: aquí comparto mis proyectos, mi código y mis aprendizajes.
+Seguir creciendo como profesional Front-end y experto en Redes, construyendo una base técnica sólida y demostrable. Este perfil es parte de mi camino: aquí comparto mis proyectos, mi código y mis aprendizajes.
