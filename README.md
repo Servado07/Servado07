@@ -49,3 +49,6 @@
   <a href="https://www.youtube.com/@rocket_07" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="42" height="30" alt="linkedin logo"  />
   </a>
+  <a href="https://sergiovaliente.netlify.app/" target="_blank">
+    <img src="https://cdn-1.webcatalog.io/catalog/adobe-portfolio/adobe-portfolio-icon-filled-256.png?v=1714773138723" width="32" height="32" alt="linkedin logo" />
+  </a>
