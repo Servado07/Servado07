@@ -37,6 +37,15 @@
 
 ---
 
-### 🎯 Objetivo
+### 🌐 Redes Sociales
 
-Seguir creciendo como profesional Front-end y experto en Redes, construyendo una base técnica sólida y demostrable. Este perfil es parte de mi camino: aquí comparto mis proyectos, mi código y mis aprendizajes.
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergio-valiente/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Servado07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@rocket_07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="42" height="30" alt="linkedin logo"  />
+  </a>
