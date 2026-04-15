@@ -40,15 +40,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sergio-valiente/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Servado07" target="_blank">
-    <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" height="35" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" height="35" alt="github logo" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@rocket_07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="35" alt="youtube logo" />
   </a>
-    <p></p>
+  &nbsp;&nbsp;
   <a href="https://sergiovaliente.netlify.app/" target="_blank">
-    <img src="https://i0.wp.com/pixelandbabble.ca/wp-content/uploads/2023/10/Portfoilo-Text%401x2.png?fit=800%2C266&ssl=1" width="100" height="100" alt="linkedin logo" />
+    <img src="https://i0.wp.com/pixelandbabble.ca/wp-content/uploads/2023/10/Portfoilo-Text%401x2.png?fit=800%2C266&ssl=1" height="35" alt="portfolio logo" />
   </a>
+</div>
