@@ -48,7 +48,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@rocket_07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="35" alt="youtube logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" height="35" alt="youtube logo" />
   </a>
   &nbsp;&nbsp;
   <a href="https://sergiovaliente.netlify.app/" target="_blank">
